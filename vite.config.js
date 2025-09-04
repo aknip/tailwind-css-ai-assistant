@@ -9,6 +9,11 @@ export default defineConfig({
     reportCompressedSize: false,
     commonjsOptions: { transformMixedEsModules: true },
   },
+  server: {
+    allowedHosts: [
+      '5173-aknip-tailwindcssaiass-j6vdoxchbaz.ws-eu121.gitpod.io'
+    ]
+  },
   plugins: [
     tailwindcssPlugin(),
     viteConfigPaths(),
