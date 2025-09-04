@@ -1,3 +1,6 @@
+
+https://gitpod.io/#https://github.com/aknip/tailwind-css-ai-assistant
+
 # 🚀 React and Tailwind Starter Kit
 
 Quickly set up a new `React.js` project with Tailwind CSS using the [starter kit](https://github.com/labnol/react-tailwind). The project was bootstrapped with Vite (replacing Create React App) and it uses the `singlefile` plugin to inline all the JavaScript and CSS files into a single minified file.
