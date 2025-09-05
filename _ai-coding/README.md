@@ -28,6 +28,7 @@ template "from
 - path: "_ai-coding/UI-Components/Full-Layouts/layout-001-simple-sidebar.jsx"
 
 
-# Run application / server
+# Run and test application / server
 - Alway use `npm run start` to start the server. DO NOT USE `npm run dev` !
 - Open `http://localhost:5173` to view it in the browser.
+- DO NOT TEST the application after changes, do not open it in the browser
