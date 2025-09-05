@@ -4,8 +4,8 @@ https://gitpod.io/#https://github.com/aknip/tailwind-css-ai-assistant
 
 Source: https://github.com/labnol/react-tailwind
 
-
-- The latest version of the starter kit is built with React 19 and Tailwind CSS 4.
+- Tailwind CSS 4.1.13
+- React 19 
 
 
 #### `npm run start`
